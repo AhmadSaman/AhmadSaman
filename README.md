@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**.
+- 👨‍💻 feel free to check my repos and rate them.
 
 - 📫 How to reach me **ahmadsaman.eng@gmail.com**.
 
