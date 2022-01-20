@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Alumni Project** for my college.
 
-- 🌱 I’m currently learning **Express JS.**
+- 🌱 I’m currently learning **TypeScript.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
