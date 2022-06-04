@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Alumni Project** for my college.
+- 🔭 I’m currently working on **Linkoo** it's a small web app that helps developers to share resources to help each other.
 
 - 🌱 I’m currently learning **TypeScript.**
 
