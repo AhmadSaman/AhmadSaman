@@ -23,5 +23,9 @@ Hey👋 Do you see this Twitter 🐦 Icon above?
 Ok then click it 👆 and send me a message 💭 
 <br/>
 Let's start a project together 🧑‍💻
-
 </p>        
+<p align="center">Waiting for your message 😉 </p>
+        
+<p align="center">You can click <a href = "https://github.com/users/AhmadSaman/projects/1/views/1">here</a> to check my personal tasks 🤓</p>
+
+        
