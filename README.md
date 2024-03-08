@@ -17,7 +17,5 @@
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadSaman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
         
-<p align="center">
-<figure><embed src="https://wakatime.com/share/@Azer0F/77ef275f-6dc4-4d46-b508-7b326de7eb00.svg"></embed></figure>
-</p>
+
         
